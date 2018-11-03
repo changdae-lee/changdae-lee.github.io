@@ -1,14 +1,11 @@
 ---
 layout: page
-title: About
+title: 이창대
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+스타트업을 좋아하는 평범한 주니어 개발자입니다. <br>
+취미로 프로그래밍을 하고, 기술적으로 성장하고자 노력합니다.(노력은 합니다...)
 
 ### Contact me
 
