@@ -26,7 +26,7 @@ navigation:
     url: /
   - name: Archive
     url: /archive
-  - name: Categories 
+  - name: Tags 
     url: /tags
 
 # Pagination
