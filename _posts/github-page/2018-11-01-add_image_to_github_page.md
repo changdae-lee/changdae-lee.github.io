@@ -3,6 +3,9 @@ layout: post
 title: 깃헙 페이지(github page)에 이미지 삽입
 tags: [github page]
 comments: true
+sitemap:
+    changefreq: daily
+    priority: 0.5
 ---
 깃헙 페이지에 이미지를 삽입하고 싶을 때, 레포지토리에 이미지를 넣고 해당 링크를 참조한다면 레포지토리의 용량이 점점 늘어날 것이다. 물론 나처럼 포스팅이 별로 없다면 괜찮겠지만...<br>
 그렇지만 레포지토리 용량이 커지는 것이 싫기 때문에... 레포지토리에 이미지를 복사하지 않고 글에 이미지를 삽입하는 방법을 알아 보았다.

@@ -3,6 +3,9 @@ layout: post
 title: 스레드 안전(Thread-safety)이란?
 tags: [operating system]
 comments: true
+sitemap:
+    changefreq: daily
+    priority: 1.0
 ---
 최근 python의 GIL(Global Interpreter Lock)을 정확히 설명하지 못해서 공부하던 중, 들어는 봤으나 역시 정확한 내용은 몰랐던 스레드 안전(Thread-safety)에 대해 글을 써보려고 한다. 운영체제 수업 때 들어본 기억이 있는 것 같은데, 수업을 날로 들었는지 기억이 나지 않는다...
 

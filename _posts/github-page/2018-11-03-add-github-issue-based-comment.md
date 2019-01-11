@@ -3,6 +3,9 @@ layout: post
 title: 깃헙 페이지(github page)에 깃헙 이슈 기반 댓글 기능 추가
 tags: [github page]
 comments: true
+sitemap:
+    changefreq: daily
+    priority: 0.5
 ---
 
 보통 깃헙 페이지 블로그에 댓글 기능을 추가한다고 하면 **Disqus**를 많이 사용하는 것을 볼 수 있다.

@@ -3,6 +3,9 @@ layout: post
 title: Kubernetes - Heapster를 이용한 서버 모니터링
 tags: [kubernetes]
 comments: true
+sitemap:
+    changefreq: daily
+    priority: 1.0
 ---
 ## Heapster
 * Monitoring solution
