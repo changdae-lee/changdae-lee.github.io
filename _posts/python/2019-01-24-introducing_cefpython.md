@@ -3,6 +3,9 @@ layout: post
 title: "Cefpython: electron for python"
 tags: [python]
 comments: true
+sitemap:
+    changefreq: daily
+    priority: 1.0
 ---
 작년부터 회사에서 맡아서 하고 있는 서브 프로젝트가 있는데, 이 프로젝트에서 데스크탑 어플리케이션을 만들고 있습니다. 일을 시작하고 난 후부터 파이썬을 주로 사용해 왔기 때문에, 이 프로젝트 역시 파이썬을 이용해서 진행하고 있습니다. 보통 PyQt를 많이 사용하시는 것 같은데, 상용 제품 개발 시 PyQt의 라이센스 문제 때문에 python2.7 + PySide로 개발을 해왔습니다. 그러던 중 python3로 넘어가야 하는 이유가 생겨서, 다른 gui 오픈소스를 찾아보던 중 cefpython에 입문하게 되었습니다. 사용하면서 유용하다는 생각이 들어서, 오늘 소개하고자 합니다.
 
