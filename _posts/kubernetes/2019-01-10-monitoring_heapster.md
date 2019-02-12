@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Kubernetes - Heapster를 이용한 서버 모니터링
+title: "Kubernetes: Heapster를 이용한 서버 모니터링"
 tags: [kubernetes]
 comments: true
 sitemap:
     changefreq: daily
-    priority: 1.0
+    priority: 0.5 
 ---
+이 글에서는 쿠버네티스의 node 메트릭 수집과 이벤트 정보 수집을 담당하고 있는 Heapster 소개와 Heapster를 이용한 서버 모니터링에 대해 다루어 보았다.
+
 ## Heapster
 * Monitoring solution
 * pod로 동작하므로 쿠버네티스 자체체서 관리가 가능
